@@ -1,0 +1,186 @@
+<resources>
+    <string name="app_name">TarotDeLuz</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="menu_daily">Daily Card</string>
+    
+        <!-- Tarot Card Names - Major Arcana -->
+        <string name="card_fool_name">The Fool</string>
+        <string name="card_magician_name">The Magician</string>
+        <string name="card_high_priestess_name">The High Priestess</string>
+        <string name="card_empress_name">The Empress</string>
+        <string name="card_emperor_name">The Emperor</string>
+        <string name="card_hierophant_name">The Hierophant</string>
+        <string name="card_lovers_name">The Lovers</string>
+        <string name="card_chariot_name">The Chariot</string>
+        <string name="card_strength_name">Strength</string>
+        <string name="card_hermit_name">The Hermit</string>
+        <string name="card_wheel_of_fortune_name">Wheel of Fortune</string>
+        <string name="card_justice_name">Justice</string>
+        <string name="card_hanged_man_name">The Hanged Man</string>
+        <string name="card_death_name">Death</string>
+        <string name="card_temperance_name">Temperance</string>
+        <string name="card_devil_name">The Devil</string>
+        <string name="card_tower_name">The Tower</string>
+        <string name="card_star_name">The Star</string>
+        <string name="card_moon_name">The Moon</string>
+        <string name="card_sun_name">The Sun</string>
+        <string name="card_judgement_name">Judgement</string>
+        <string name="card_world_name">The World</string>
+    
+        <!-- Tarot Card Descriptions - Major Arcana -->
+        <string name="card_fool_desc">New beginnings, innocence, spontaneity, and free spirit. A leap of faith and embracing the unknown with optimism.</string>
+        <string name="card_magician_desc">Manifestation, resourcefulness, and inspired action. Using your skills and abilities to create change.</string>
+        <string name="card_high_priestess_desc">Intuition, mystery, and inner knowledge. Listen to your inner voice and trust your instincts.</string>
+        <string name="card_empress_desc">Abundance, nurturing, fertility, and feminine energy. Creation, growth, and connection with nature.</string>
+        <string name="card_emperor_desc">Authority, structure, leadership, and stability. Taking control and establishing order.</string>
+        <string name="card_hierophant_desc">Tradition, spirituality, and guidance. Learning from established institutions and mentors.</string>
+        <string name="card_lovers_desc">Love, harmony, relationships, and choices. Making important decisions guided by the heart.</string>
+        <string name="card_chariot_desc">Determination, willpower, and victory. Overcoming obstacles through focus and drive.</string>
+        <string name="card_strength_desc">Inner strength, courage, and patience. Gentle power and resilience in facing challenges.</string>
+        <string name="card_hermit_desc">Soul-searching, introspection, and inner guidance. Seeking wisdom through solitude.</string>
+        <string name="card_wheel_of_fortune_desc">Change, cycles, and destiny. Life\'s ups and downs bringing new opportunities.</string>
+        <string name="card_justice_desc">Fairness, truth, and cause and effect. Making balanced decisions and accepting consequences.</string>
+        <string name="card_hanged_man_desc">Surrender, letting go, and new perspectives. Seeing things differently through pause and reflection.</string>
+        <string name="card_death_desc">Endings, transformation, and renewal. Making way for new beginnings through necessary change.</string>
+        <string name="card_temperance_desc">Balance, moderation, and patience. Finding harmony through combining different elements.</string>
+        <string name="card_devil_desc">Shadow self, attachment, and materialism. Breaking free from self-imposed limitations.</string>
+        <string name="card_tower_desc">Sudden change, upheaval, and revelation. Breaking down false structures for truth.</string>
+        <string name="card_star_desc">Hope, inspiration, and serenity. Finding peace and guidance after difficulty.</string>
+        <string name="card_moon_desc">Illusion, intuition, and the subconscious. Navigating through uncertainty and hidden depths.</string>
+        <string name="card_sun_desc">Joy, success, and positivity. Experiencing clarity, warmth, and vitality.</string>
+        <string name="card_judgement_desc">Awakening, rebirth, and inner calling. Answering a higher purpose and self-evaluation.</string>
+        <string name="card_world_desc">Completion, integration, and accomplishment. Reaching wholeness and fulfilling goals.</string>
+    
+        <!-- Minor Arcana - Wands -->
+        <string name="card_ace_wands_name">Ace of Wands</string>
+        <string name="card_two_wands_name">Two of Wands</string>
+        <string name="card_three_wands_name">Three of Wands</string>
+        <string name="card_four_wands_name">Four of Wands</string>
+        <string name="card_five_wands_name">Five of Wands</string>
+        <string name="card_six_wands_name">Six of Wands</string>
+        <string name="card_seven_wands_name">Seven of Wands</string>
+        <string name="card_eight_wands_name">Eight of Wands</string>
+        <string name="card_nine_wands_name">Nine of Wands</string>
+        <string name="card_ten_wands_name">Ten of Wands</string>
+        <string name="card_page_wands_name">Page of Wands</string>
+        <string name="card_knight_wands_name">Knight of Wands</string>
+        <string name="card_queen_wands_name">Queen of Wands</string>
+        <string name="card_king_wands_name">King of Wands</string>
+    
+        <!-- Minor Arcana - Wands Descriptions -->
+        <string name="card_ace_wands_desc">New opportunities, inspiration, and creative spark. Beginning of new ventures with enthusiasm.</string>
+        <string name="card_two_wands_desc">Future planning, progress, and decisions. Choosing a direction for expansion.</string>
+        <string name="card_three_wands_desc">Expansion, foresight, and leadership. Looking ahead to future opportunities.</string>
+        <string name="card_four_wands_desc">Celebration, harmony, and homecoming. Achieving stability and joy in community.</string>
+        <string name="card_five_wands_desc">Competition, conflict, and rivalry. Dealing with challenges and opposing forces.</string>
+        <string name="card_six_wands_desc">Victory, success, and public recognition. Achieving goals and receiving acclaim.</string>
+        <string name="card_seven_wands_desc">Challenge, defensiveness, and perseverance. Standing your ground against opposition.</string>
+        <string name="card_eight_wands_desc">Swift action, movement, and progress. Quick developments and communication.</string>
+        <string name="card_nine_wands_desc">Resilience, persistence, and last stand. Maintaining strength despite weariness.</string>
+        <string name="card_ten_wands_desc">Burden, responsibility, and hard work. Carrying heavy loads and obligations.</string>
+        <string name="card_page_wands_desc">Exploration, excitement, and discovery. New ideas and passionate beginnings.</string>
+        <string name="card_knight_wands_desc">Action, adventure, and impulsiveness. Pursuing goals with energy and charm.</string>
+        <string name="card_queen_wands_desc">Courage, determination, and joy. Leading with confidence and inspiration.</string>
+        <string name="card_king_wands_desc">Vision, leadership, and honor. Mastering creative energy and inspiring others.</string>
+    
+        <!-- Minor Arcana - Cups -->
+        <string name="card_ace_cups_name">Ace of Cups</string>
+        <string name="card_two_cups_name">Two of Cups</string>
+        <string name="card_three_cups_name">Three of Cups</string>
+        <string name="card_four_cups_name">Four of Cups</string>
+        <string name="card_five_cups_name">Five of Cups</string>
+        <string name="card_six_cups_name">Six of Cups</string>
+        <string name="card_seven_cups_name">Seven of Cups</string>
+        <string name="card_eight_cups_name">Eight of Cups</string>
+        <string name="card_nine_cups_name">Nine of Cups</string>
+        <string name="card_ten_cups_name">Ten of Cups</string>
+        <string name="card_page_cups_name">Page of Cups</string>
+        <string name="card_knight_cups_name">Knight of Cups</string>
+        <string name="card_queen_cups_name">Queen of Cups</string>
+        <string name="card_king_cups_name">King of Cups</string>
+    
+        <!-- Minor Arcana - Cups Descriptions -->
+        <string name="card_ace_cups_desc">New feelings, intuition, and emotional beginnings. Opening to love and spiritual connection.</string>
+        <string name="card_two_cups_desc">Partnership, attraction, and harmony. Building meaningful relationships.</string>
+        <string name="card_three_cups_desc">Celebration, friendship, and community. Sharing joy and creative collaboration.</string>
+        <string name="card_four_cups_desc">Contemplation, apathy, and reevaluation. Examining emotional satisfaction.</string>
+        <string name="card_five_cups_desc">Loss, regret, and disappointment. Learning to focus on what remains rather than what\'s lost.</string>
+        <string name="card_six_cups_desc">Nostalgia, childhood memories, and innocence. Finding joy in simple pleasures.</string>
+        <string name="card_seven_cups_desc">Choices, fantasy, and illusion. Navigating multiple possibilities and dreams.</string>
+        <string name="card_eight_cups_desc">Seeking meaning, walking away, and spiritual journey. Moving on from emotional stagnation.</string>
+        <string name="card_nine_cups_desc">Contentment, satisfaction, and wishes fulfilled. Emotional and material abundance.</string>
+        <string name="card_ten_cups_desc">Harmony, family bliss, and perfect love. Achieving emotional fulfillment.</string>
+        <string name="card_page_cups_desc">Creative beginnings, intuitive messages, and gentle soul. New emotional insights.</string>
+        <string name="card_knight_cups_desc">Romance, charm, and imagination. Pursuing emotional quests and artistic ventures.</string>
+        <string name="card_queen_cups_desc">Compassion, calm, and emotional security. Nurturing sensitivity and intuition.</string>
+        <string name="card_king_cups_desc">Emotional balance, diplomacy, and wisdom. Mastering feelings and counseling others.</string>
+    
+        <!-- Minor Arcana - Swords -->
+        <string name="card_ace_swords_name">Ace of Swords</string>
+        <string name="card_two_swords_name">Two of Swords</string>
+        <string name="card_three_swords_name">Three of Swords</string>
+        <string name="card_four_swords_name">Four of Swords</string>
+        <string name="card_five_swords_name">Five of Swords</string>
+        <string name="card_six_swords_name">Six of Swords</string>
+        <string name="card_seven_swords_name">Seven of Swords</string>
+        <string name="card_eight_swords_name">Eight of Swords</string>
+        <string name="card_nine_swords_name">Nine of Swords</string>
+        <string name="card_ten_swords_name">Ten of Swords</string>
+        <string name="card_page_swords_name">Page of Swords</string>
+        <string name="card_knight_swords_name">Knight of Swords</string>
+        <string name="card_queen_swords_name">Queen of Swords</string>
+        <string name="card_king_swords_name">King of Swords</string>
+    
+        <!-- Minor Arcana - Swords Descriptions -->
+        <string name="card_ace_swords_desc">Mental clarity, breakthrough, and new ideas. Beginning of intellectual pursuits.</string>
+        <string name="card_two_swords_desc">Decision, stalemate, and blocked emotions. Finding balance through difficult choices.</string>
+        <string name="card_three_swords_desc">Heartbreak, grief, and rejection. Processing emotional pain and healing.</string>
+        <string name="card_four_swords_desc">Rest, restoration, and contemplation. Taking time for recovery and meditation.</string>
+        <string name="card_five_swords_desc">Conflict, defeat, and win at all costs. Learning from loss and hollow victories.</string>
+        <string name="card_six_swords_desc">Transition, moving forward, and leaving behind. Journey toward calmer waters.</string>
+        <string name="card_seven_swords_desc">Deception, strategy, and careful planning. Being strategic or dealing with dishonesty.</string>
+        <string name="card_eight_swords_desc">Restriction, imprisonment, and self-imposed limitations. Breaking free from mental constraints.</string>
+        <string name="card_nine_swords_desc">Anxiety, worry, and fear. Confronting nightmares and mental anguish.</string>
+        <string name="card_ten_swords_desc">Painful endings, rock bottom, and transformation. Accepting endings for new beginnings.</string>
+        <string name="card_page_swords_desc">New ideas, curiosity, and vigilance. Beginning intellectual ventures.</string>
+        <string name="card_knight_swords_desc">Action, ambition, and drive. Pursuing goals with determination.</string>
+        <string name="card_queen_swords_desc">Clear thinking, complexity, and independence. Using intellect with grace.</string>
+        <string name="card_king_swords_desc">Mental clarity, intellectual power, and authority. Mastering truth and communication.</string>
+    
+        <!-- Minor Arcana - Pentacles -->
+        <string name="card_ace_pentacles_name">Ace of Pentacles</string>
+        <string name="card_two_pentacles_name">Two of Pentacles</string>
+        <string name="card_three_pentacles_name">Three of Pentacles</string>
+        <string name="card_four_pentacles_name">Four of Pentacles</string>
+        <string name="card_five_pentacles_name">Five of Pentacles</string>
+        <string name="card_six_pentacles_name">Six of Pentacles</string>
+        <string name="card_seven_pentacles_name">Seven of Pentacles</string>
+        <string name="card_eight_pentacles_name">Eight of Pentacles</string>
+        <string name="card_nine_pentacles_name">Nine of Pentacles</string>
+        <string name="card_ten_pentacles_name">Ten of Pentacles</string>
+        <string name="card_page_pentacles_name">Page of Pentacles</string>
+        <string name="card_knight_pentacles_name">Knight of Pentacles</string>
+        <string name="card_queen_pentacles_name">Queen of Pentacles</string>
+        <string name="card_king_pentacles_name">King of Pentacles</string>
+    
+        <!-- Minor Arcana - Pentacles Descriptions -->
+        <string name="card_ace_pentacles_desc">New financial opportunity, prosperity, and abundance. Beginning material ventures.</string>
+        <string name="card_two_pentacles_desc">Balance, adaptability, and time management. Juggling multiple responsibilities.</string>
+        <string name="card_three_pentacles_desc">Teamwork, collaboration, and skill. Working together for quality results.</string>
+        <string name="card_four_pentacles_desc">Security, conservation, and material concerns. Managing resources carefully.</string>
+        <string name="card_five_pentacles_desc">Hardship, loss, and isolation. Experiencing material or spiritual poverty.</string>
+        <string name="card_six_pentacles_desc">Generosity, charity, and sharing wealth. Giving and receiving with grace.</string>
+        <string name="card_seven_pentacles_desc">Assessment, reward, and patience. Evaluating long-term investments.</string>
+        <string name="card_eight_pentacles_desc">Skill development, diligence, and detail. Mastering craft through practice.</string>
+        <string name="card_nine_pentacles_desc">Luxury, self-reliance, and accomplishment. Enjoying material abundance.</string>
+        <string name="card_ten_pentacles_desc">Legacy, inheritance, and family wealth. Achieving lasting material success.</string>
+        <string name="card_page_pentacles_desc">Manifestation, study, and new opportunity. Beginning practical learning.</string>
+        <string name="card_knight_pentacles_desc">Hard work, routine, and responsibility. Pursuing goals methodically.</string>
+        <string name="card_queen_pentacles_desc">Nurturing, abundance, and security. Managing resources with care.</string>
+        <string name="card_king_pentacles_desc">Wealth, business, and security. Mastering material realm and success.</string>
+
+</resources>

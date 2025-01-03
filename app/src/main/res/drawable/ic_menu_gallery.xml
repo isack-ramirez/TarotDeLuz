@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Gold outlined cards -->
+    <group
+        android:scaleX="0.4"
+        android:scaleY="0.5"
+        android:translateX="30.6"
+        android:translateY="30.6">
+        
+        <!-- Bottom card -->
+        <path
+            android:fillColor="#00000000"
+            android:pathData="M15,15 L85,15 Q89,15 89,19 L89,89 Q89,93 85,93 L15,93 Q11,93 11,89 L11,19 Q11,15 15,15"
+            android:strokeColor="#FFD700"
+            android:strokeWidth="2"/>
+
+        <!-- Middle card -->
+        <path
+            android:fillColor="#00000000"
+            android:pathData="M20,10 L90,10 Q94,10 94,14 L94,84 Q94,88 90,88 L20,88 Q16,88 16,84 L16,14 Q16,10 20,10"
+            android:strokeColor="#FFD700"
+            android:strokeWidth="2"/>
+
+        <!-- Top card -->
+        <path
+            android:fillColor="#00000000"
+            android:pathData="M25,5 L95,5 Q99,5 99,9 L99,79 Q99,83 95,83 L25,83 Q21,83 21,79 L21,9 Q21,5 25,5"
+            android:strokeColor="#FFD700"
+            android:strokeWidth="2"/>
+
+
+    </group>
+</vector>
