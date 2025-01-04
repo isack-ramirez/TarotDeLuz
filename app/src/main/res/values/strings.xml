@@ -1,5 +1,12 @@
 <resources>
-    <string name="app_name">TarotDeLuz</string>
+    <string name="app_name">Tarot De Luz</string>
+    <string name="title_home">Home</string>
+    <string name="title_daily">Daily</string>
+    <string name="title_readings">Readings</string>
+    <string name="draw_card">Draw Card</string>
+    <string name="card_back">Card Back</string>
+    <string name="card_front">Card Front</string>
+    <string name="suit_icon">Suit Icon</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">Android Studio</string>

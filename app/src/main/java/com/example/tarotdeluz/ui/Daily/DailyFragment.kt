@@ -40,6 +40,14 @@ class DailyFragment : Fragment() {
         // Observe button state changes
         dailyViewModel.isDrawEnabled.observe(viewLifecycleOwner) { isEnabled ->
             binding.drawCardButton.isEnabled = isEnabled
+            if (isEnabled) {
+                binding.tarotCardView.showUndrawnState()
+            }
+        }
+
+        // Observe card changes
+        dailyViewModel.card.observe(viewLifecycleOwner) { card ->
+            card?.let { binding.tarotCardView.displayCard(it) }
         }
 
         // Initial check for saved card

@@ -19,8 +19,10 @@ class DailyViewModel(application: Application) : AndroidViewModel(application) {
 
     private val _cardInfo = MutableLiveData<String>()
     private val _isDrawEnabled = MutableLiveData<Boolean>()
+    private val _card = MutableLiveData<TarotCard>()
     val cardInfo: LiveData<String> = _cardInfo
     val isDrawEnabled: LiveData<Boolean> = _isDrawEnabled
+    val card: LiveData<TarotCard> = _card
 
     init {
         _cardInfo.value = ""
@@ -97,6 +99,7 @@ class DailyViewModel(application: Application) : AndroidViewModel(application) {
         
         Log.d(TAG, "Displaying card: $formattedInfo")
         _cardInfo.value = formattedInfo
+        _card.value = card
     }
 
     private fun saveCard(card: TarotCard) {
@@ -107,6 +110,7 @@ class DailyViewModel(application: Application) : AndroidViewModel(application) {
     private fun enableDrawing() {
         _isDrawEnabled.value = true
         _cardInfo.value = ""
+        _card.value = null
     }
 
     private fun disableDrawing() {
