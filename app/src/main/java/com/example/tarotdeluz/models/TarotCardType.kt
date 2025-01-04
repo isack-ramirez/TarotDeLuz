@@ -1,6 +1,7 @@
 package com.example.tarotdeluz.models
 
 import com.example.tarotdeluz.R
+import java.security.SecureRandom
 
 enum class TarotCardType(val nameResId: Int, val descriptionResId: Int) {
     // Major Arcana
@@ -92,10 +93,32 @@ enum class TarotCardType(val nameResId: Int, val descriptionResId: Int) {
     KING_OF_PENTACLES(R.string.card_king_pentacles_name, R.string.card_king_pentacles_desc);
 
     companion object {
+        private val secureRandom = SecureRandom().apply {
+            // Add system-specific entropy
+            val deviceEntropy = (System.nanoTime()
+                xor Thread.currentThread().id
+                xor Runtime.getRuntime().freeMemory()
+                xor Runtime.getRuntime().totalMemory()
+            ).toString().toByteArray()
+            
+            setSeed(deviceEntropy)
+        }
+
         /**
-         * Returns a random card from the deck
+         * Returns a random card using enhanced entropy sources
          */
-        fun random(): TarotCardType = values().random()
+        fun random(): TarotCardType {
+            val values = values()
+            // Add runtime entropy for each draw
+            val runtimeEntropy = (System.nanoTime()
+                xor Thread.currentThread().id
+                xor android.os.Process.myPid().toLong()
+                xor android.os.Process.myTid().toLong()
+            ).toString().toByteArray()
+            
+            secureRandom.setSeed(runtimeEntropy)
+            return values[secureRandom.nextInt(values.size)]
+        }
 
         /**
          * Returns a random card from the Major Arcana

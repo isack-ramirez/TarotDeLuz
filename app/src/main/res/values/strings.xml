@@ -39,28 +39,28 @@
         <string name="card_world_name">The World</string>
     
         <!-- Tarot Card Descriptions - Major Arcana -->
-        <string name="card_fool_desc">New beginnings, innocence, spontaneity, and free spirit. A leap of faith and embracing the unknown with optimism.</string>
-        <string name="card_magician_desc">Manifestation, resourcefulness, and inspired action. Using your skills and abilities to create change.</string>
-        <string name="card_high_priestess_desc">Intuition, mystery, and inner knowledge. Listen to your inner voice and trust your instincts.</string>
-        <string name="card_empress_desc">Abundance, nurturing, fertility, and feminine energy. Creation, growth, and connection with nature.</string>
-        <string name="card_emperor_desc">Authority, structure, leadership, and stability. Taking control and establishing order.</string>
-        <string name="card_hierophant_desc">Tradition, spirituality, and guidance. Learning from established institutions and mentors.</string>
-        <string name="card_lovers_desc">Love, harmony, relationships, and choices. Making important decisions guided by the heart.</string>
-        <string name="card_chariot_desc">Determination, willpower, and victory. Overcoming obstacles through focus and drive.</string>
-        <string name="card_strength_desc">Inner strength, courage, and patience. Gentle power and resilience in facing challenges.</string>
-        <string name="card_hermit_desc">Soul-searching, introspection, and inner guidance. Seeking wisdom through solitude.</string>
-        <string name="card_wheel_of_fortune_desc">Change, cycles, and destiny. Life\'s ups and downs bringing new opportunities.</string>
-        <string name="card_justice_desc">Fairness, truth, and cause and effect. Making balanced decisions and accepting consequences.</string>
-        <string name="card_hanged_man_desc">Surrender, letting go, and new perspectives. Seeing things differently through pause and reflection.</string>
-        <string name="card_death_desc">Endings, transformation, and renewal. Making way for new beginnings through necessary change.</string>
-        <string name="card_temperance_desc">Balance, moderation, and patience. Finding harmony through combining different elements.</string>
-        <string name="card_devil_desc">Shadow self, attachment, and materialism. Breaking free from self-imposed limitations.</string>
-        <string name="card_tower_desc">Sudden change, upheaval, and revelation. Breaking down false structures for truth.</string>
-        <string name="card_star_desc">Hope, inspiration, and serenity. Finding peace and guidance after difficulty.</string>
-        <string name="card_moon_desc">Illusion, intuition, and the subconscious. Navigating through uncertainty and hidden depths.</string>
-        <string name="card_sun_desc">Joy, success, and positivity. Experiencing clarity, warmth, and vitality.</string>
-        <string name="card_judgement_desc">Awakening, rebirth, and inner calling. Answering a higher purpose and self-evaluation.</string>
-        <string name="card_world_desc">Completion, integration, and accomplishment. Reaching wholeness and fulfilling goals.</string>
+        <string name="card_fool_desc">Standing at the edge of infinite possibility, the Fool beckons you to embrace the unknown. What adventures await in the mist of uncertainty? Like a child\'s first step, every journey begins with a moment of pure trust. Will you dare to dance with destiny?</string>
+        <string name="card_magician_desc">As above, so below - the cosmic dance of creation flows through your fingertips. What untapped powers lie dormant within you? The tools of transformation await your touch, ready to bridge the gap between dream and reality.</string>
+        <string name="card_high_priestess_desc">In the silence between heartbeats lies ancient wisdom. What secrets whisper in the depths of your soul? The moon\'s reflection on still waters holds answers to questions you\'ve yet to ask.</string>
+        <string name="card_empress_desc">Life blooms eternal in the garden of the divine feminine. Where in your life are seeds of potential waiting to burst forth? Nature\'s abundance flows through you, a reminder that you too are a creator of worlds.</string>
+        <string name="card_emperor_desc">From chaos, order emerges like crystal formations in stone. How can you harness your inner authority to build lasting foundations? The throne of wisdom awaits one who can balance power with compassion.</string>
+        <string name="card_hierophant_desc">Ancient wisdom echoes through the halls of tradition, bridging earth and sky. What timeless truths seek to guide your path? Between the pillars of knowledge and faith, a deeper understanding awaits.</string>
+        <string name="card_lovers_desc">In the garden of divine choice, two paths intertwine. What does your heart whisper when your mind grows quiet? Every choice is a thread in the tapestry of destiny - which colors will you weave?</string>
+        <string name="card_chariot_desc">Victory rides forth on wheels of opposing forces, mastered by will alone. What opposing forces in your life seek harmony? Through the storm of contradiction, your true direction emerges.</string>
+        <string name="card_strength_desc">The gentlest touch tames the fiercest beast within. Where in your life can softness prevail where force cannot? True power flows not from dominance, but from the heart\'s quiet courage.</string>
+        <string name="card_hermit_desc">A solitary lamp illuminates the path inward. What hidden truths await in the depths of solitude? Sometimes we must walk alone to find our way back to ourselves.</string>
+        <string name="card_wheel_of_fortune_desc">The cosmic wheel turns, lifting some while others descend. What patterns in your life are completing their cycle? In the great dance of fate and free will, every ending spawns a new beginning.</string>
+        <string name="card_justice_desc">In the perfect balance of the scales, truth reveals itself. What debts of karma await their resolution? The sword of clarity cuts through illusion, revealing the natural order of cause and effect.</string>
+        <string name="card_hanged_man_desc">Suspended between worlds, perspective shifts like morning fog. What treasures of wisdom appear when your world turns upside down? Sometimes surrender is the greatest victory.</string>
+        <string name="card_death_desc">The phoenix rises from its own ashes, transformed and renewed. What must you release to embrace your next evolution? In the garden of endings, tomorrow\'s flowers already take root.</string>
+        <string name="card_temperance_desc">Like the alchemist\'s art, opposing elements dance in harmony. Where can you find the sacred in the ordinary? Between fire and water, a rainbow bridge appears.</string>
+        <string name="card_devil_desc">Golden chains of illusion bind those who mistake them for jewelry. What self-imposed limitations are you ready to transcend? In the shadow\'s embrace lies the key to your freedom. A dance with the devil named Luthifer.</string>
+        <string name="card_tower_desc">Lightning strikes the false tower of ego, revealing truth in its ruins. What structures in your life have outlived their purpose? Sometimes destruction is the hand of divine architecture.</string>
+        <string name="card_star_desc">Hope sparkles like starlight on still waters, reflecting infinite possibility. What dreams have you forgotten to nurture? The universe conspires to light your path forward.</string>
+        <string name="card_moon_desc">In the twilight realm between reality and dreams, shadows dance with meaning. What mysteries lurk beneath the surface of consciousness? The path through uncertainty leads to profound truth.</string>
+        <string name="card_sun_desc">Pure joy radiates like the dawn of a new world, burning away all shadows. What brilliance within you awaits its moment to shine? In the light of truth, all things become possible.</string>
+        <string name="card_judgement_desc">The trumpet of awakening calls the soul to its higher purpose. What aspects of yourself are rising from the ashes of the past? A new chapter awaits those who heed the call of transformation.</string>
+        <string name="card_world_desc">The cosmic dance completes its circle, yet spirals ever onward. What symphony of accomplishment plays in your heart? In this moment of completion, new horizons already beckon.</string>
     
         <!-- Minor Arcana - Wands -->
         <string name="card_ace_wands_name">Ace of Wands</string>
@@ -79,20 +79,20 @@
         <string name="card_king_wands_name">King of Wands</string>
     
         <!-- Minor Arcana - Wands Descriptions -->
-        <string name="card_ace_wands_desc">New opportunities, inspiration, and creative spark. Beginning of new ventures with enthusiasm.</string>
-        <string name="card_two_wands_desc">Future planning, progress, and decisions. Choosing a direction for expansion.</string>
-        <string name="card_three_wands_desc">Expansion, foresight, and leadership. Looking ahead to future opportunities.</string>
-        <string name="card_four_wands_desc">Celebration, harmony, and homecoming. Achieving stability and joy in community.</string>
-        <string name="card_five_wands_desc">Competition, conflict, and rivalry. Dealing with challenges and opposing forces.</string>
-        <string name="card_six_wands_desc">Victory, success, and public recognition. Achieving goals and receiving acclaim.</string>
-        <string name="card_seven_wands_desc">Challenge, defensiveness, and perseverance. Standing your ground against opposition.</string>
-        <string name="card_eight_wands_desc">Swift action, movement, and progress. Quick developments and communication.</string>
-        <string name="card_nine_wands_desc">Resilience, persistence, and last stand. Maintaining strength despite weariness.</string>
-        <string name="card_ten_wands_desc">Burden, responsibility, and hard work. Carrying heavy loads and obligations.</string>
-        <string name="card_page_wands_desc">Exploration, excitement, and discovery. New ideas and passionate beginnings.</string>
-        <string name="card_knight_wands_desc">Action, adventure, and impulsiveness. Pursuing goals with energy and charm.</string>
-        <string name="card_queen_wands_desc">Courage, determination, and joy. Leading with confidence and inspiration.</string>
-        <string name="card_king_wands_desc">Vision, leadership, and honor. Mastering creative energy and inspiring others.</string>
+        <string name="card_ace_wands_desc">A divine spark ignites the cosmic fire within. What creative passion lies dormant, waiting to burst into flame? Like the first ray of dawn, new inspiration illuminates unexplored horizons.</string>
+        <string name="card_two_wands_desc">Between familiar shores and unknown horizons, possibility beckons. What new territories call to your adventurous spirit? The world awaits those bold enough to chart their own course.</string>
+        <string name="card_three_wands_desc">From the clifftop of vision, future possibilities unfold like waves upon the shore. What distant horizons call to your enterprising spirit? Leadership begins with the courage to see beyond the known.</string>
+        <string name="card_four_wands_desc">Joy rises like golden lanterns in the gathering twilight. What foundations of happiness have you built? In the dance of community, individual flames join to create a lasting light.</string>
+        <string name="card_five_wands_desc">In the chaos of clashing wills, a higher purpose emerges. How can conflict spark growth rather than destruction? Sometimes the greatest achievements arise from the crucible of challenge.</string>
+        <string name="card_six_wands_desc">Victory\'s laurels crown the persistent spirit. What inner battles have forged your strength? Glory shines brightest when shared with those who supported your journey.</string>
+        <string name="card_seven_wands_desc">Upon the heights of achievement, winds of challenge test your resolve. What principles are worth defending at any cost? In standing your ground, you discover your true strength.</string>
+        <string name="card_eight_wands_desc">Like arrows of thought piercing the veil of possibility. What messages race on lightning\'s wings to reach you? When inspiration strikes, timing becomes everything.</string>
+        <string name="card_nine_wands_desc">Battle-worn but unbroken, wisdom stands guard at destiny\'s gate. What hard-won lessons protect your path forward? The final challenge often tests endurance rather than strength.</string>
+        <string name="card_ten_wands_desc">Beneath the weight of responsibility, hidden strength emerges. Which burdens are truly yours to carry? Sometimes laying down our loads reveals the path to freedom.</string>
+        <string name="card_page_wands_desc">Wide-eyed wonder ignites the spark of discovery. What new passion awaits its first breath? In the beginning stages of any journey lies pure potential.</string>
+        <string name="card_knight_wands_desc">Adventure\'s flame burns bright in the seeker\'s heart. Where will your passionate pursuit lead you? Energy unbound by fear becomes the wind beneath your wings.</string>
+        <string name="card_queen_wands_desc">Radiant confidence illuminates the path for others. How can your inner fire light the way forward? In the dance of leadership, inspiration moves mountains.</string>
+        <string name="card_king_wands_desc">Mastery of creative force shapes reality itself. How will you wield your power to inspire others? True leadership transforms vision into lasting legacy.</string>
     
         <!-- Minor Arcana - Cups -->
         <string name="card_ace_cups_name">Ace of Cups</string>
@@ -111,20 +111,20 @@
         <string name="card_king_cups_name">King of Cups</string>
     
         <!-- Minor Arcana - Cups Descriptions -->
-        <string name="card_ace_cups_desc">New feelings, intuition, and emotional beginnings. Opening to love and spiritual connection.</string>
-        <string name="card_two_cups_desc">Partnership, attraction, and harmony. Building meaningful relationships.</string>
-        <string name="card_three_cups_desc">Celebration, friendship, and community. Sharing joy and creative collaboration.</string>
-        <string name="card_four_cups_desc">Contemplation, apathy, and reevaluation. Examining emotional satisfaction.</string>
-        <string name="card_five_cups_desc">Loss, regret, and disappointment. Learning to focus on what remains rather than what\'s lost.</string>
-        <string name="card_six_cups_desc">Nostalgia, childhood memories, and innocence. Finding joy in simple pleasures.</string>
-        <string name="card_seven_cups_desc">Choices, fantasy, and illusion. Navigating multiple possibilities and dreams.</string>
-        <string name="card_eight_cups_desc">Seeking meaning, walking away, and spiritual journey. Moving on from emotional stagnation.</string>
-        <string name="card_nine_cups_desc">Contentment, satisfaction, and wishes fulfilled. Emotional and material abundance.</string>
-        <string name="card_ten_cups_desc">Harmony, family bliss, and perfect love. Achieving emotional fulfillment.</string>
-        <string name="card_page_cups_desc">Creative beginnings, intuitive messages, and gentle soul. New emotional insights.</string>
-        <string name="card_knight_cups_desc">Romance, charm, and imagination. Pursuing emotional quests and artistic ventures.</string>
-        <string name="card_queen_cups_desc">Compassion, calm, and emotional security. Nurturing sensitivity and intuition.</string>
-        <string name="card_king_cups_desc">Emotional balance, diplomacy, and wisdom. Mastering feelings and counseling others.</string>
+        <string name="card_ace_cups_desc">Divine love overflows from the cosmic chalice, blessing all it touches. What new emotions seek expression in your heart? Like the first drop of rain on parched earth, love awakens dormant dreams.</string>
+        <string name="card_two_cups_desc">Two streams merge into one river of shared destiny. What connections transcend ordinary understanding? In the mirror of another soul, we glimpse our own divine nature.</string>
+        <string name="card_three_cups_desc">Joy multiplies in the garden of friendship\'s embrace. What celebrations await in the circle of kindred spirits? Sometimes life\'s sweetest moments flow from simple togetherness.</string>
+        <string name="card_four_cups_desc">In the shadow of contemplation, hidden gifts await notice. What blessings have become invisible through familiarity? Sometimes turning inward reveals the treasures we overlooked.</string>
+        <string name="card_five_cups_desc">Through tears of loss, new possibilities shimmer like morning dew. What wisdom lies hidden in life\'s disappointments? Even in moments of grief, hope stands quietly beside us.</string>
+        <string name="card_six_cups_desc">Memory\'s garden blooms with innocent wonder once more. What childhood dreams still whisper in your heart? The past offers sweet nectar to nourish future growth.</string>
+        <string name="card_seven_cups_desc">In the mist of possibility, dreams dance like rainbow reflections. Which visions will you ground in reality? Fantasy\'s wings can lift us to new heights or lead us astray.</string>
+        <string name="card_eight_cups_desc">Moonlit paths lead to deeper waters of truth. What familiar comforts must you leave behind? Sometimes the heart\'s journey requires walking away from all we\'ve known.</string>
+        <string name="card_nine_cups_desc">Contentment flows like honey in the garden of wishes fulfilled. What dreams have blossomed into sweet reality? In gratitude\'s embrace, abundance reveals its true face.</string>
+        <string name="card_ten_cups_desc">Rainbow bridges span heaven and earth in perfect harmony. What does your heart\'s vision of happiness look like? True joy ripples outward, blessing all it touches.</string>
+        <string name="card_page_cups_desc">Wonder sparkles like sunlight on morning waves. What messages do your emotions carry? Innocence opens doors that wisdom alone cannot unlock.</string>
+        <string name="card_knight_cups_desc">Romance gallops forth on dreams\' swift steeds. What ideals guide your heart\'s quest? The pursuit of beauty transforms ordinary moments into poetry.</string>
+        <string name="card_queen_cups_desc">Compassion flows like a deep river of understanding. How does your emotional wisdom guide others? In the heart\'s sacred temple, every feeling finds sanctuary.</string>
+        <string name="card_king_cups_desc">Mastery of emotion creates bridges across troubled waters. How can you balance heart and mind in leadership? True power flows from understanding both tears and laughter.</string>
     
         <!-- Minor Arcana - Swords -->
         <string name="card_ace_swords_name">Ace of Swords</string>
@@ -143,20 +143,20 @@
         <string name="card_king_swords_name">King of Swords</string>
     
         <!-- Minor Arcana - Swords Descriptions -->
-        <string name="card_ace_swords_desc">Mental clarity, breakthrough, and new ideas. Beginning of intellectual pursuits.</string>
-        <string name="card_two_swords_desc">Decision, stalemate, and blocked emotions. Finding balance through difficult choices.</string>
-        <string name="card_three_swords_desc">Heartbreak, grief, and rejection. Processing emotional pain and healing.</string>
-        <string name="card_four_swords_desc">Rest, restoration, and contemplation. Taking time for recovery and meditation.</string>
-        <string name="card_five_swords_desc">Conflict, defeat, and win at all costs. Learning from loss and hollow victories.</string>
-        <string name="card_six_swords_desc">Transition, moving forward, and leaving behind. Journey toward calmer waters.</string>
-        <string name="card_seven_swords_desc">Deception, strategy, and careful planning. Being strategic or dealing with dishonesty.</string>
-        <string name="card_eight_swords_desc">Restriction, imprisonment, and self-imposed limitations. Breaking free from mental constraints.</string>
-        <string name="card_nine_swords_desc">Anxiety, worry, and fear. Confronting nightmares and mental anguish.</string>
-        <string name="card_ten_swords_desc">Painful endings, rock bottom, and transformation. Accepting endings for new beginnings.</string>
-        <string name="card_page_swords_desc">New ideas, curiosity, and vigilance. Beginning intellectual ventures.</string>
-        <string name="card_knight_swords_desc">Action, ambition, and drive. Pursuing goals with determination.</string>
-        <string name="card_queen_swords_desc">Clear thinking, complexity, and independence. Using intellect with grace.</string>
-        <string name="card_king_swords_desc">Mental clarity, intellectual power, and authority. Mastering truth and communication.</string>
+        <string name="card_ace_swords_desc">Truth\'s blade pierces the clouds of confusion like divine lightning. What clarity awaits beyond the veil of doubt? When mind and spirit align, wisdom cuts through illusion.</string>
+        <string name="card_two_swords_desc">Balance teeters on the edge of decision\'s blade. What truths lie beneath the surface of peaceful denial? Sometimes the hardest choice is whether to choose at all.</string>
+        <string name="card_three_swords_desc">Through the heart\'s winter rain, wisdom blooms like a frost flower. What painful truths catalyze your growth? Sometimes wounds become windows to deeper understanding.</string>
+        <string name="card_four_swords_desc">In the tomb of silence, healing whispers its secrets. What battles need to rest in sacred stillness? The warrior\'s greatest strength often lies in knowing when to sheathe the sword.</string>
+        <string name="card_five_swords_desc">Victory\'s hollow echo rings through empty battlefields. At what cost comes triumph? Sometimes in winning, we lose what matters most.</string>
+        <string name="card_six_swords_desc">Across troubled waters, dawn\'s light guides the way to peace. What baggage are you ready to leave on distant shores? Every journey of healing begins with a single departure.</string>
+        <string name="card_seven_swords_desc">In the shadows of strategy, intention dances with consequence. What truths hide behind necessary deceptions? Sometimes the clever path leads to unexpected wisdom.</string>
+        <string name="card_eight_swords_desc">Prison walls of thought cast shadows of limitation. What self-imposed bonds are ready to fall away? Freedom often begins in the mind before it manifests in reality.</string>
+        <string name="card_nine_swords_desc">Night\'s darkest hour holds seeds of dawn\'s awakening. What fears dissolve when faced with courage\'s light? Sometimes our greatest demons are shadows of our own making.</string>
+        <string name="card_ten_swords_desc">In the darkness of endings, transformation\'s star begins to rise. What must completely end for renewal to begin? Rock bottom becomes a foundation when you choose to rebuild.</string>
+        <string name="card_page_swords_desc">Vigilant eyes pierce the veil of appearance, seeking truth. What new perspectives await your discovery? In the beginner\'s mind, every challenge brings fresh insight.</string>
+        <string name="card_knight_swords_desc">Swift thought rides the winds of change with fierce determination. What ideals drive your relentless pursuit? Sometimes the fastest path forward requires careful navigation.</string>
+        <string name="card_queen_swords_desc">Clarity cuts through emotional fog like morning\'s first light. How does truth serve compassion in your life? Wisdom tempers sharp insight with gentle understanding.</string>
+        <string name="card_king_swords_desc">Justice wields the sword of truth with ethical precision. How can intellectual power serve the highest good? True authority stems from the marriage of wisdom and integrity.</string>
     
         <!-- Minor Arcana - Pentacles -->
         <string name="card_ace_pentacles_name">Ace of Pentacles</string>
@@ -175,19 +175,19 @@
         <string name="card_king_pentacles_name">King of Pentacles</string>
     
         <!-- Minor Arcana - Pentacles Descriptions -->
-        <string name="card_ace_pentacles_desc">New financial opportunity, prosperity, and abundance. Beginning material ventures.</string>
-        <string name="card_two_pentacles_desc">Balance, adaptability, and time management. Juggling multiple responsibilities.</string>
-        <string name="card_three_pentacles_desc">Teamwork, collaboration, and skill. Working together for quality results.</string>
-        <string name="card_four_pentacles_desc">Security, conservation, and material concerns. Managing resources carefully.</string>
-        <string name="card_five_pentacles_desc">Hardship, loss, and isolation. Experiencing material or spiritual poverty.</string>
-        <string name="card_six_pentacles_desc">Generosity, charity, and sharing wealth. Giving and receiving with grace.</string>
-        <string name="card_seven_pentacles_desc">Assessment, reward, and patience. Evaluating long-term investments.</string>
-        <string name="card_eight_pentacles_desc">Skill development, diligence, and detail. Mastering craft through practice.</string>
-        <string name="card_nine_pentacles_desc">Luxury, self-reliance, and accomplishment. Enjoying material abundance.</string>
-        <string name="card_ten_pentacles_desc">Legacy, inheritance, and family wealth. Achieving lasting material success.</string>
-        <string name="card_page_pentacles_desc">Manifestation, study, and new opportunity. Beginning practical learning.</string>
-        <string name="card_knight_pentacles_desc">Hard work, routine, and responsibility. Pursuing goals methodically.</string>
-        <string name="card_queen_pentacles_desc">Nurturing, abundance, and security. Managing resources with care.</string>
-        <string name="card_king_pentacles_desc">Wealth, business, and security. Mastering material realm and success.</string>
+        <string name="card_ace_pentacles_desc">Earth\'s bounty manifests like seeds sprouting in fertile soil. What treasures lie dormant in your garden of possibility? When spirit meets matter, miracles take root in reality.</string>
+        <string name="card_two_pentacles_desc">Life\'s rhythm flows in the eternal dance of balance. How do you surf the waves of change? In the juggler\'s art, chaos becomes a graceful performance.</string>
+        <string name="card_three_pentacles_desc">Mastery blooms in the cathedral of collaboration. What foundations are you building with others? When diverse skills unite, impossible dreams take shape in stone.</string>
+        <string name="card_four_pentacles_desc">Security builds walls that both protect and confine. What treasures are worth holding, and which must circulate freely? Sometimes abundance flows best through open hands.</string>
+        <string name="card_five_pentacles_desc">In winter\'s shadow, unseen doors lead to warmth and light. What blessings hide behind apparent scarcity? Sometimes our greatest lack reveals our deepest abundance.</string>
+        <string name="card_six_pentacles_desc">Generosity flows like a river between giving and receiving shores. How does abundance move through your life? In the dance of exchange, every gift contains a blessing.</string>
+        <string name="card_seven_pentacles_desc">Patience watches as planted seeds slowly reach toward light. What fruits are ripening in your garden of effort? Sometimes the pause between planting and harvest holds its own wisdom.</string>
+        <string name="card_eight_pentacles_desc">Craftsmanship transforms ordinary moments into works of art. What skills are you honing to perfection? In dedicated practice, work becomes meditation.</string>
+        <string name="card_nine_pentacles_desc">Self-reliance blooms in the garden of earned abundance. What luxuries have you cultivated through discipline? Independence tastes sweetest when seasoned with gratitude.</string>
+        <string name="card_ten_pentacles_desc">Legacy builds bridges from generation to generation. What inheritance will you leave for tomorrow? True wealth encompasses more than gold - it\'s the foundation of lasting harmony.You are at the end of a path, and it is full of joy.</string>
+        <string name="card_page_pentacles_desc">Curiosity studies the seeds of manifestation with wonder. What new ventures await your careful cultivation? In the beginner\'s mind, every task holds potential for mastery.</string>
+        <string name="card_knight_pentacles_desc">Determination advances with the steady pace of the seasons. How does patience serve your ambition? Sometimes the slowest path leads to the most lasting success.</string>
+        <string name="card_queen_pentacles_desc">Abundance flows through the nurturing hands of practical wisdom. How do you tend the garden of your material world? True prosperity grows from the marriage of nature and nurture.</string>
+        <string name="card_king_pentacles_desc">Prosperity\'s crown rests on the brow of wise stewardship. How can material success serve a higher purpose? True wealth multiplies when shared with discernment.</string>
 
 </resources>
